@@ -17,3 +17,5 @@
   ```
   streamlit run cat_gpt.py
   ```
+
+![image](https://github.com/kang5647/CatGPT/assets/76279908/68e41fb8-a3d3-4c40-91a7-5c65654c0fae)
